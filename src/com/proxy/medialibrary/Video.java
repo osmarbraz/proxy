@@ -1,4 +1,4 @@
-package com.proxy;
+package com.proxy.medialibrary;
 
 /**
  * Arquivo de vídeo.

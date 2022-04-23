@@ -1,7 +1,7 @@
 
-import com.proxy.ThirdPartyYouTubeClass;
-import com.proxy.YouTubeCacheProxy;
-import com.proxy.YouTubeDownloader;
+import com.proxy.medialibrary.ThirdPartyYouTubeClass;
+import com.proxy.proxy.YouTubeCacheProxy;
+import com.proxy.downloader.YouTubeDownloader;
 
 public class Principal {
 

@@ -1,5 +1,8 @@
-package com.proxy;
+package com.proxy.proxy;
 
+import com.proxy.medialibrary.ThirdPartyYouTubeClass;
+import com.proxy.medialibrary.ThirdPartyYouTubeLib;
+import com.proxy.medialibrary.Video;
 import java.util.HashMap;
 
 /**

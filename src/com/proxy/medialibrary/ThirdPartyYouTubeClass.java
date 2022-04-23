@@ -1,4 +1,4 @@
-package com.proxy;
+package com.proxy.medialibrary;
 
 import java.util.HashMap;
 
